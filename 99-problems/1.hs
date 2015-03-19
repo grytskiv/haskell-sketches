@@ -1,0 +1,1 @@
+myLast xs = last xs

@@ -1,0 +1,1 @@
+myReverse xs = reverse xs
